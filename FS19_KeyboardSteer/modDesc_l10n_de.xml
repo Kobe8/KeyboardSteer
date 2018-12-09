@@ -9,6 +9,7 @@
 		<text name="ksmSTEERING"        text="Adaptive Lenkung"/>
 		<text name="ksmSHUTTLE"         text="Shuttle Control"/>
 		<text name="ksmREVERSE"         text="Zurückblicken"/>
+		<text name="ksmLIMIT"		text="Beschleunigungsbegrenzer"/>
 		<text name="ksmSETTINGS"        text="FS17_KeyboardSteer: Einstellungen"/>
 		                                
 		<text name="ksm_tip_CAMERA"     text="Die Kamera dreht sich passend zum Lenkeinschlag automatisch mit."/>
